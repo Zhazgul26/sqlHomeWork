@@ -3533,3 +3533,7 @@ having count(customer_id) > 20;
 select count(city), country
 from customer
 group by country;
+
+
+
+
